@@ -1,0 +1,16 @@
+.employee-detail-card-content {
+    margin: 0 16px;
+}
+
+.form-field-container {
+    display: flex;
+}
+
+.form-feild-label-container {
+    width: 150px;
+    padding-top: 18px;
+}
+
+.form-field {
+    width: 300px;
+}

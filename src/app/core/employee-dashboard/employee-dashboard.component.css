@@ -1,0 +1,11 @@
+.dashboard-container {
+    margin: 2% 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dashboard-header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
